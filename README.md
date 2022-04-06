@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Getting Started
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is an attempt to build the Cryptocurrency Wallet Design we have [here](https://www.figma.com/file/fgsHso3u2yCm6C2NHYIXFI/Cryptocurrency-Wallet-Dashboard-UI?node-id=1%3A18). Design was found Dribble and all credit goes to the Designer for giving free access to the figma files.
+
 
 ## Available Scripts
 
