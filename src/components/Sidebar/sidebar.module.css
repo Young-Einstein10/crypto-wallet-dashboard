@@ -1,0 +1,33 @@
+.sidebar {
+    background-color: #FBFBFB;
+    width: 142px;
+    padding-top: 58px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #EDEDED;
+}
+
+.sidebar .logo {
+    margin-bottom: 100px;
+}
+
+.sidebarContent .listMenu {
+    list-style: none;
+}
+
+
+.sidebarContent .listMenu .listMenuItem {
+    margin-bottom: 30px;
+}
+
+.listMenu .listMenuItem a {
+    display: block;
+    text-align: center;
+    color: #9A9FAD;
+    text-decoration: none;
+}
+
+.listMenu .listMenuItem a span {
+    display: block;
+}
